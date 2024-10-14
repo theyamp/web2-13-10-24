@@ -1,5 +1,5 @@
 body{
-    background-image: url(/img/fondofut.jpg);
+    background-image: url(img/fondofut.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -15,7 +15,6 @@ body{
                          "footer    footer";
 }
 .contenedor .header{
-    color: white;
     grid-area: header;
 }
 .contenedor .nav{
